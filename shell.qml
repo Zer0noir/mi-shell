@@ -52,7 +52,7 @@ ShellRoot {
             Clock {
                 anchors {
                     right: parent.right
-                    rightMargin: 215gi
+                    rightMargin: 215
                     verticalCenter: parent.verticalCenter
                 }
             }
